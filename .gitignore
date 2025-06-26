@@ -1,0 +1,20 @@
+# Folders to ignore
+Dependent Results/
+features/
+frames/
+Independent Results/
+PreTrained Dependent Results/
+PreTrained Independent Results/
+
+# Files to ignore
+mobileNetfeatures.zip
+PreTrained Independent Results.zip
+resultPreTrainedIndependent.zip
+results1024D.zip
+results1024preTrainModified.zip
+resultsInceptionDependent.rar
+resultsInceptionIndependent.rar
+resultsIndependent1024D.zip
+phoenix14t.pami0.train
+phoenix14t.pami0.test
+phoenix14t.pami0.dev

@@ -1,0 +1,14 @@
+'features/color/01/train/0020/01_0020_(17_03_21_21_36_28)_c.npy'
+'features/color/05/train/0042/05_0042_(20_03_21_19_25_26)_c.npy'
+'features/color/02/train/0020/02_0020_(02_03_21_21_01_08)_c.npy'
+'features/color/01/test/0044/01_0044_(20_03_21_20_09_50)_c.npy'
+'features/color/01/test/0006/01_0006_(16_02_21_19_36_11)_c.npy'
+
+'Dataset/color/01/train/0020/01_0020_(17_03_21_21_36_28)_c.mp4'
+'Dataset/color/05/train/0042/05_0042_(20_03_21_19_25_26)_c.mp4'
+'Dataset/color/02/train/0020/02_0020_(02_03_21_21_01_08)_c.mp4'
+'features/color/01/test/0044/01_0044_(20_03_21_20_09_50)_c.mp4'
+'features/color/01/test/0006/01_0006_(16_02_21_19_36_11)_c.mp4'
+
+
+

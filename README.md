@@ -19,8 +19,6 @@ A deep learning project for translating Arabic Sign Language to text using GRU-b
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Citation](#citation)
 
 ## 🔍 Overview
 
